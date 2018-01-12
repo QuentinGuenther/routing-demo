@@ -1,0 +1,12 @@
+{
+	"name": "qguenthe/routing-demp",
+	"authors": [
+		{
+			"name":"Quentin Guenther",
+			"email":"qguenther@mail.greenriver.edu"
+		}
+	],
+	"require":{
+		"bcosca/fatfree-core":"dev-master"
+	}
+}
